@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarileeZ
+- 👋 Hi, I’m Marilee! I'm currently a student at University of Oregon. 
 - 👀 I’m interested in ethics in AI, especially surrounding natural language processing. 
 - 🌱 I’m currently learning Java and Kotlin.
 - 💞️ I’m looking to collaborate on initiatives supporting marginalized groups.
